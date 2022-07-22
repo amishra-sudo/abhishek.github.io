@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Abhishek Mishra 
 description: Software engineer
+domain: abhishek.github.io
+url: https://abhishek.github.io
+baseurl: abhishek.github.io
+
